@@ -1,4 +1,5 @@
 Image slider
+
 This project includes an image slider component that allows users to view images in a sliding gallery format. It is fully responsive and can be customized with different transition effects, durations, and navigation controls.
 
 Features:
